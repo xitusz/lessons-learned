@@ -1,0 +1,139 @@
+* {
+  font-family: sans-serif;
+}
+
+body {
+  background-color: rgb(253, 251, 251);
+}
+
+#header {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  display: flex;
+  justify-content: center;
+}
+
+#title {
+  margin: 10px;
+  color: rgb(19, 82, 119);
+  font-size: 30px;
+}
+
+#navigation {
+  background-color: rgb(153, 150, 150);
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+  padding: 10px 30px;
+}
+
+#navigation a {
+  margin: 0 20px;
+  text-decoration: none;
+}
+
+#photo {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+#articles {
+  display: flex;
+  justify-content: center;
+}
+
+#article {
+  margin-left: 20px;
+  margin-top: 20px;
+  line-height: 20px;
+}
+
+#passage {
+  margin-top: 20px;
+  margin-right: 20px;
+  line-height: 20px;
+}
+
+.left-side {
+  float: left;
+  max-width: 60%;
+  margin-left: 20%;
+}
+
+.right-side {
+  float: right;
+  max-width: 60%;
+  margin-right: 30%;
+}
+
+#lessons {
+  display: flex;
+  justify-content: center;
+  clear: both;
+}
+
+.list-lessons {
+  background-color: rgb(153, 150, 150);
+  width: 40%;
+  margin: 0 10px;
+  padding: 10px;
+  border-radius: 20px;
+  line-height: 20px;
+}
+
+.title-lessons {
+  text-align: center;
+}
+
+#lessons-apprenticeship {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding-left: 0;
+}
+
+#lessons-to-learn {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding-left: 0;
+}
+
+#table {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+table {
+  padding: 10px;
+  border-radius: 20px;
+}
+
+thead {
+  border-top-right-radius: 20px;
+}
+
+thead th {
+  padding: 5px 10px;
+}
+
+tbody {
+  text-align: center;
+}
+
+tbody th {
+  padding: 5px;
+}
+
+footer {
+  margin-top: 20px;
+  padding: 1px;
+  background-color: rgb(153, 150, 150);
+  display: flex;
+  justify-content: center;
+}
