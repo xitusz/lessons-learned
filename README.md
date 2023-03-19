@@ -1,5 +1,5 @@
 # Lessons Learned
-[1/11] [Fundamentos do Desenvolvimento Web](https://github.com/xitusz/Trybe/tree/main/01_Fundamentos-do-Desenvolvimento-Web)
+[1/8] [Fundamentos do Desenvolvimento Web](https://github.com/xitusz/Trybe/tree/main/01_Fundamentos-do-Desenvolvimento-Web)
 
 ---
 
